@@ -28,5 +28,3 @@ The generative art piece combines **dynamic movement, color variation, and style
 
 ---
 
-This project demonstrates how combining **data, generative art, and programming** can result in a creative and meaningful representation of real-world information.
-
