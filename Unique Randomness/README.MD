@@ -4,7 +4,7 @@
 ## Data Type: Cities and Temperatures
 
 ### Overview
-This project explores the unique weather and temperature patterns of various cities, represented as **City A, B, C, D, E**. Using a dataset containing approximately **1,089 values**, this generative art piece visualizes the data in an engaging and visually appealing way.
+This project explores the unique weather and temperature patterns of various cities, represented as **City A, B, C, D, E**. Using a dataset containing approximately **1,096 values**, this generative art piece visualizes the data in an engaging and visually appealing way.
 
 ### Concept
 The art piece utilizes a **color-coordinated system** to represent temperature:
