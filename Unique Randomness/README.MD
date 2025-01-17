@@ -1,6 +1,5 @@
 # Unique Randomness (Week 2) 
 [P5.js Project - View Here](https://editor.p5js.org/Delvin/sketches/5dT97qxHM)
-![Project Visualization](ScreenRecording2025-01-17at3.53.31PM-ezgif.com-video-to-gif-converter)  
 
 ## Data Type: Cities and Temperatures
 
