@@ -1,4 +1,5 @@
-# Unique Randomness (Week 2) (P5.JS PROJECT LINK: https://editor.p5js.org/Delvin/sketches/5dT97qxHM) 
+# Unique Randomness (Week 2) 
+[P5.js Project - View Here](https://editor.p5js.org/Delvin/sketches/5dT97qxHM)
 
 ## Data Type: Cities and Temperatures
 
