@@ -22,6 +22,8 @@ The core idea of **Visual Touch** is to leverage JavaScript and p5.js to produce
 - **Sound Integration**: Visuals dynamically respond to sound, enhancing the sensory experience.
 - **Customization & Variety**: Extensive options for visual customization and a wide range of patterns.
 
+Some of the 25 unique patterns have more visually lasting effects, while others require continuous interaction to reveal their unique visuals. This variety ensures ease of use with simple clicks to generate stunning designs.
+
 ## How to Use
 
 1. **Interact with the Artwork**:
@@ -51,5 +53,7 @@ Here are some screenshots showcasing the project:
 ![Screenshot 9](https://github.com/user-attachments/assets/3a78e7d5-a4d6-433e-9f95-a4eebac25749)
 ![Screenshot 10](https://github.com/user-attachments/assets/20247fa2-7ce4-4c07-9290-33b77981749c)
 ![Screenshot 11](https://github.com/user-attachments/assets/783bb2a4-e0a7-468c-9c2f-7da85074bf23)
+![Screenshot 12](https://github.com/user-attachments/assets/b70af2e1-6500-4b48-937f-0d0448a3bb9f)
+![Screenshot 13](https://github.com/user-attachments/assets/bd2fe406-6cf2-4e7c-b691-03ae5c368c9f)
 
 
